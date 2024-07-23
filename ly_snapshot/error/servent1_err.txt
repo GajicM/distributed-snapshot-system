@@ -1,0 +1,31 @@
+23:37:30 - Marker event for: 7 initiated by 1 recordedamount: 0  getHistory: {ver:1_init:0={0=0, 2=0, 3=0, 5=72}, ver:0_init:-1={0=284, 2=270, 3=0, 5=227}}
+23:37:30 - regionList: []
+ colectedvalues {}
+23:37:30 - give history {ver:1_init:0={0=0, 2=0, 3=0, 5=0}, ver:0_init:-1={0=247, 2=260, 3=289, 5=265}}
+
+23:37:30 - get history {ver:1_init:0={0=0, 2=0, 3=0, 5=72}, ver:0_init:-1={0=284, 2=270, 3=0, 5=227}}
+
+23:37:30 - I dalje u ifu recordedamount = 720
+23:37:30 - 
+Snapshot result: LYSnapshotResult{serventId=1, recordedAmount=720, giveHistory={ver:0_init:-1={0=247, 2=260, 3=289, 5=265}}, getHistory={ver:0_init:-1={0=284, 2=270, 3=0, 5=227}}}
+
+23:37:31 - IZASAO IZ CUDNOG WHILEA{1=LYSnapshotResult{serventId=1, recordedAmount=720, giveHistory={ver:0_init:-1={0=247, 2=260, 3=289, 5=265}}, getHistory={ver:0_init:-1={0=284, 2=270, 3=0, 5=227}}}}
+23:37:31 - REPORTUJEM PARENTU
+ collected vals{1=LYSnapshotResult{serventId=1, recordedAmount=720, giveHistory={ver:0_init:-1={0=247, 2=260, 3=289, 5=265}}, getHistory={ver:0_init:-1={0=284, 2=270, 3=0, 5=227}}}}
+neibors from regions [3, 5, 2]
+ regions [4]
+23:37:49 - Marker event for: 4 initiated by 1 recordedamount: 720  getHistory: {ver:1_init:0={0=285, 2=257, 3=310, 5=340}, ver:0_init:-1={0=284, 2=270, 3=0, 5=227}}
+23:37:49 - regionList: []
+ colectedvalues {}
+23:37:49 - give history {ver:1_init:0={0=270, 2=291, 3=273, 5=300}, ver:0_init:-1={0=247, 2=260, 3=289, 5=265}}
+
+23:37:49 - get history {ver:1_init:0={0=285, 2=257, 3=310, 5=340}, ver:0_init:-1={0=284, 2=270, 3=0, 5=227}}
+
+23:37:49 - 
+Snapshot result: LYSnapshotResult{serventId=1, recordedAmount=778, giveHistory={ver:1_init:4={0=270, 2=291, 3=273, 5=300}}, getHistory={ver:1_init:4={0=285, 2=257, 3=310, 5=340}}}
+
+23:37:51 - IZASAO IZ CUDNOG WHILEA{1=LYSnapshotResult{serventId=1, recordedAmount=778, giveHistory={ver:1_init:4={0=270, 2=291, 3=273, 5=300}}, getHistory={ver:1_init:4={0=285, 2=257, 3=310, 5=340}}}}
+23:37:51 - REPORTUJEM PARENTU
+ collected vals{1=LYSnapshotResult{serventId=1, recordedAmount=778, giveHistory={ver:1_init:4={0=270, 2=291, 3=273, 5=300}}, getHistory={ver:1_init:4={0=285, 2=257, 3=310, 5=340}}}}
+neibors from regions [2, 5, 0]
+ regions [4]

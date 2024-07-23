@@ -1,0 +1,32 @@
+23:37:30 - Marker event for: 4 initiated by 6 recordedamount: 0  getHistory: {ver:1_init:0={0=0, 2=0, 3=0, 5=58}, ver:0_init:-1={0=305, 2=296, 3=0, 5=233}}
+23:37:30 - regionList: []
+ colectedvalues {}
+23:37:30 - give history {ver:1_init:0={0=0, 2=0, 3=0, 5=0}, ver:0_init:-1={0=265, 2=266, 3=248, 5=239}}
+
+23:37:30 - get history {ver:1_init:0={0=0, 2=0, 3=0, 5=58}, ver:0_init:-1={0=305, 2=296, 3=0, 5=233}}
+
+23:37:30 - I dalje u ifu recordedamount = 816
+23:37:30 - 
+Snapshot result: LYSnapshotResult{serventId=6, recordedAmount=816, giveHistory={ver:0_init:-1={0=265, 2=266, 3=248, 5=239}}, getHistory={ver:0_init:-1={0=305, 2=296, 3=0, 5=233}}}
+
+23:37:31 - IZASAO IZ CUDNOG WHILEA{6=LYSnapshotResult{serventId=6, recordedAmount=816, giveHistory={ver:0_init:-1={0=265, 2=266, 3=248, 5=239}}, getHistory={ver:0_init:-1={0=305, 2=296, 3=0, 5=233}}}}
+23:37:31 - REPORTUJEM PARENTU
+ collected vals{6=LYSnapshotResult{serventId=6, recordedAmount=816, giveHistory={ver:0_init:-1={0=265, 2=266, 3=248, 5=239}}, getHistory={ver:0_init:-1={0=305, 2=296, 3=0, 5=233}}}}
+neibors from regions [0, 3, 2]
+ regions [4, 7]
+23:37:48 - Marker event for: 4 initiated by 6 recordedamount: 816  getHistory: {ver:1_init:0={0=284, 2=296, 3=274, 5=332}, ver:0_init:-1={0=305, 2=296, 3=0, 5=233}}
+23:37:48 - regionList: []
+ colectedvalues {}
+23:37:48 - give history {ver:1_init:0={0=265, 2=292, 3=297, 5=289}, ver:0_init:-1={0=265, 2=266, 3=248, 5=239}}
+
+23:37:48 - get history {ver:1_init:0={0=284, 2=296, 3=274, 5=332}, ver:0_init:-1={0=305, 2=296, 3=0, 5=233}}
+
+23:37:48 - 
+Snapshot result: LYSnapshotResult{serventId=6, recordedAmount=859, giveHistory={ver:1_init:4={0=265, 2=292, 3=297, 5=289}}, getHistory={ver:1_init:4={0=284, 2=296, 3=274, 5=332}}}
+
+23:37:52 - TELL MESSAGE RECEIVED{0=LYSnapshotResult{serventId=0, recordedAmount=380, giveHistory={ver:1_init:4={1=285, 2=281, 6=284, 7=241}}, getHistory={ver:1_init:4={1=270, 2=296, 6=265, 7=0}}}, 7=LYSnapshotResult{serventId=7, recordedAmount=1521, giveHistory={ver:1_init:4={0=0}}, getHistory={ver:1_init:4={0=241}}}} regiosn:[4]
+23:37:53 - IZASAO IZ CUDNOG WHILEA{0=LYSnapshotResult{serventId=0, recordedAmount=380, giveHistory={ver:1_init:4={1=285, 2=281, 6=284, 7=241}}, getHistory={ver:1_init:4={1=270, 2=296, 6=265, 7=0}}}, 6=LYSnapshotResult{serventId=6, recordedAmount=859, giveHistory={ver:1_init:4={0=265, 2=292, 3=297, 5=289}}, getHistory={ver:1_init:4={0=284, 2=296, 3=274, 5=332}}}, 7=LYSnapshotResult{serventId=7, recordedAmount=1521, giveHistory={ver:1_init:4={0=0}}, getHistory={ver:1_init:4={0=241}}}}
+23:37:53 - REPORTUJEM PARENTU
+ collected vals{0=LYSnapshotResult{serventId=0, recordedAmount=380, giveHistory={ver:1_init:4={1=285, 2=281, 6=284, 7=241}}, getHistory={ver:1_init:4={1=270, 2=296, 6=265, 7=0}}}, 6=LYSnapshotResult{serventId=6, recordedAmount=859, giveHistory={ver:1_init:4={0=265, 2=292, 3=297, 5=289}}, getHistory={ver:1_init:4={0=284, 2=296, 3=274, 5=332}}}, 7=LYSnapshotResult{serventId=7, recordedAmount=1521, giveHistory={ver:1_init:4={0=0}}, getHistory={ver:1_init:4={0=241}}}}
+neibors from regions [2, 5]
+ regions [4]

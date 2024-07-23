@@ -1,0 +1,30 @@
+23:37:30 - Marker event for: 4 initiated by 2 recordedamount: 0  getHistory: {ver:0_init:-1={0=264, 1=260, 3=0, 6=180}}
+23:37:30 - regionList: []
+ colectedvalues {}
+23:37:30 - give history {ver:0_init:-1={0=261, 1=270, 3=263, 6=296}}
+
+23:37:30 - get history {ver:0_init:-1={0=264, 1=260, 3=0, 6=180}}
+
+23:37:30 - 
+Snapshot result: LYSnapshotResult{serventId=2, recordedAmount=614, giveHistory={ver:0_init:-1={0=261, 1=270, 3=263, 6=296}}, getHistory={ver:0_init:-1={0=264, 1=260, 3=0, 6=180}}}
+
+23:37:31 - IZASAO IZ CUDNOG WHILEA{2=LYSnapshotResult{serventId=2, recordedAmount=614, giveHistory={ver:0_init:-1={0=261, 1=270, 3=263, 6=296}}, getHistory={ver:0_init:-1={0=264, 1=260, 3=0, 6=180}}}}
+23:37:31 - REPORTUJEM PARENTU
+ collected vals{2=LYSnapshotResult{serventId=2, recordedAmount=614, giveHistory={ver:0_init:-1={0=261, 1=270, 3=263, 6=296}}, getHistory={ver:0_init:-1={0=264, 1=260, 3=0, 6=180}}}}
+neibors from regions [0, 1, 6]
+ regions [4, 7]
+23:37:48 - Marker event for: 4 initiated by 2 recordedamount: 614  getHistory: {ver:1_init:4={0=281, 1=291, 3=227, 6=292}, ver:0_init:-1={0=264, 1=260, 3=0, 6=266}}
+23:37:48 - regionList: []
+ colectedvalues {}
+23:37:48 - give history {ver:1_init:4={0=296, 1=257, 3=276, 6=296}, ver:0_init:-1={0=261, 1=270, 3=263, 6=296}}
+
+23:37:48 - get history {ver:1_init:4={0=281, 1=291, 3=227, 6=292}, ver:0_init:-1={0=264, 1=260, 3=0, 6=266}}
+
+23:37:48 - 
+Snapshot result: LYSnapshotResult{serventId=2, recordedAmount=666, giveHistory={ver:1_init:4={0=296, 1=257, 3=276, 6=296}}, getHistory={ver:1_init:4={0=281, 1=291, 3=227, 6=292}}}
+
+23:37:50 - IZASAO IZ CUDNOG WHILEA{2=LYSnapshotResult{serventId=2, recordedAmount=666, giveHistory={ver:1_init:4={0=296, 1=257, 3=276, 6=296}}, getHistory={ver:1_init:4={0=281, 1=291, 3=227, 6=292}}}}
+23:37:50 - REPORTUJEM PARENTU
+ collected vals{2=LYSnapshotResult{serventId=2, recordedAmount=666, giveHistory={ver:1_init:4={0=296, 1=257, 3=276, 6=296}}, getHistory={ver:1_init:4={0=281, 1=291, 3=227, 6=292}}}}
+neibors from regions [6, 0, 1]
+ regions [4]

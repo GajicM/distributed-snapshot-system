@@ -1,0 +1,168 @@
+11:25:58 - STARTED COLLECTING
+11:25:59 - Marker event for: 0 initiated by 0 recordedamount: 0  getHistory: {ver:0_init:-1={1=0, 2=114}}
+11:25:59 - regionList: []
+ colectedvalues {}
+11:25:59 - give history {ver:0_init:-1={1=0, 2=0}}
+
+11:25:59 - get history {ver:0_init:-1={1=0, 2=114}}
+
+11:25:59 - 
+Snapshot result: LYSnapshotResult{serventId=0, recordedAmount=1114, giveHistory={ver:0_init:-1={1=0, 2=0}}, getHistory={ver:0_init:-1={1=0, 2=114}}}
+
+11:26:05 - TELL MESSAGE RECEIVED{2=LYSnapshotResult{serventId=2, recordedAmount=213, giveHistory={ver:0_init:-1={0=294, 1=260, 3=256, 4=270}}, getHistory={ver:0_init:-1={0=0, 1=0, 3=0, 4=293}}}, 3=LYSnapshotResult{serventId=3, recordedAmount=1890, giveHistory={ver:0_init:-1={2=0, 4=0, 5=0}}, getHistory={ver:0_init:-1={2=256, 4=332, 5=302}}}} regiosn:[0, 6]
+11:26:05 - TELL MESSAGE RECEIVED{1=LYSnapshotResult{serventId=1, recordedAmount=1536, giveHistory={ver:0_init:-1={0=0, 2=0, 4=0}}, getHistory={ver:0_init:-1={0=0, 2=229, 4=307}}}, 4=LYSnapshotResult{serventId=4, recordedAmount=341, giveHistory={ver:0_init:-1={1=307, 2=293, 3=332, 8=281}}, getHistory={ver:0_init:-1={1=0, 2=270, 3=0, 8=284}}}} regiosn:[0, 10]
+11:26:06 - IZASAO IZ CUDNOG WHILEA{0=LYSnapshotResult{serventId=0, recordedAmount=1114, giveHistory={ver:0_init:-1={1=0, 2=0}}, getHistory={ver:0_init:-1={1=0, 2=114}}}, 1=LYSnapshotResult{serventId=1, recordedAmount=1536, giveHistory={ver:0_init:-1={0=0, 2=0, 4=0}}, getHistory={ver:0_init:-1={0=0, 2=229, 4=307}}}, 2=LYSnapshotResult{serventId=2, recordedAmount=213, giveHistory={ver:0_init:-1={0=294, 1=260, 3=256, 4=270}}, getHistory={ver:0_init:-1={0=0, 1=0, 3=0, 4=293}}}, 3=LYSnapshotResult{serventId=3, recordedAmount=1890, giveHistory={ver:0_init:-1={2=0, 4=0, 5=0}}, getHistory={ver:0_init:-1={2=256, 4=332, 5=302}}}, 4=LYSnapshotResult{serventId=4, recordedAmount=341, giveHistory={ver:0_init:-1={1=307, 2=293, 3=332, 8=281}}, getHistory={ver:0_init:-1={1=0, 2=270, 3=0, 8=284}}}}
+11:26:06 - ROUND EXCHANGE MESSAGE RECEIVED{7=LYSnapshotResult{serventId=7, recordedAmount=711, giveHistory={ver:0_init:-1={5=258, 6=287, 13=269}}, getHistory={ver:0_init:-1={5=232, 6=0, 13=293}}}, 6=LYSnapshotResult{serventId=6, recordedAmount=1123, giveHistory={ver:0_init:-1={5=0, 7=0}}, getHistory={ver:0_init:-1={5=22, 7=101}}}, 5=LYSnapshotResult{serventId=5, recordedAmount=431, giveHistory={ver:0_init:-1={3=302, 6=237, 7=289, 9=290}}, getHistory={ver:0_init:-1={3=0, 6=0, 7=258, 9=291}}}} regiosn:[0, 10, 14]
+11:26:07 - 
+ my before rounds values are for [0, 1, 2, 3, 4]
+11:26:07 - initiatiors list from config [0, 6, 10, 14]
+11:26:08 - ROUND EXCHANGE MESSAGE RECEIVED{11=LYSnapshotResult{serventId=11, recordedAmount=423, giveHistory={ver:0_init:-1={10=303, 15=274}}, getHistory={ver:0_init:-1={10=0, 15=0}}}, 10=LYSnapshotResult{serventId=10, recordedAmount=1185, giveHistory={ver:0_init:-1={9=0, 11=0}}, getHistory={ver:0_init:-1={9=25, 11=160}}}, 9=LYSnapshotResult{serventId=9, recordedAmount=693, giveHistory={ver:0_init:-1={5=291, 8=296, 10=287}}, getHistory={ver:0_init:-1={5=290, 8=277, 10=0}}}, 8=LYSnapshotResult{serventId=8, recordedAmount=1016, giveHistory={ver:0_init:-1={4=284, 9=277}}, getHistory={ver:0_init:-1={4=281, 9=296}}}} regiosn:[0, 6, 14]
+11:26:08 - ROUND EXCHANGE MESSAGE RECEIVED{15=LYSnapshotResult{serventId=15, recordedAmount=1555, giveHistory={ver:0_init:-1={11=0, 13=0, 14=0}}, getHistory={ver:0_init:-1={11=274, 13=281, 14=0}}}, 14=LYSnapshotResult{serventId=14, recordedAmount=1304, giveHistory={ver:0_init:-1={12=0, 13=0, 15=0}}, getHistory={ver:0_init:-1={12=69, 13=235, 15=0}}}, 13=LYSnapshotResult{serventId=13, recordedAmount=400, giveHistory={ver:0_init:-1={7=293, 12=281, 14=305, 15=281}}, getHistory={ver:0_init:-1={7=269, 12=291, 14=0, 15=0}}}, 12=LYSnapshotResult{serventId=12, recordedAmount=702, giveHistory={ver:0_init:-1={13=291, 14=288}}, getHistory={ver:0_init:-1={13=281, 14=0}}}, 11=LYSnapshotResult{serventId=11, recordedAmount=423, giveHistory={ver:0_init:-1={10=303, 15=274}}, getHistory={ver:0_init:-1={10=0, 15=0}}}, 10=LYSnapshotResult{serventId=10, recordedAmount=1185, giveHistory={ver:0_init:-1={9=0, 11=0}}, getHistory={ver:0_init:-1={9=25, 11=160}}}, 9=LYSnapshotResult{serventId=9, recordedAmount=693, giveHistory={ver:0_init:-1={5=291, 8=296, 10=287}}, getHistory={ver:0_init:-1={5=290, 8=277, 10=0}}}, 8=LYSnapshotResult{serventId=8, recordedAmount=1016, giveHistory={ver:0_init:-1={4=284, 9=277}}, getHistory={ver:0_init:-1={4=281, 9=296}}}, 7=LYSnapshotResult{serventId=7, recordedAmount=711, giveHistory={ver:0_init:-1={5=258, 6=287, 13=269}}, getHistory={ver:0_init:-1={5=232, 6=0, 13=293}}}, 6=LYSnapshotResult{serventId=6, recordedAmount=1123, giveHistory={ver:0_init:-1={5=0, 7=0}}, getHistory={ver:0_init:-1={5=22, 7=101}}}, 5=LYSnapshotResult{serventId=5, recordedAmount=431, giveHistory={ver:0_init:-1={3=302, 6=237, 7=289, 9=290}}, getHistory={ver:0_init:-1={3=0, 6=0, 7=258, 9=291}}}, 4=LYSnapshotResult{serventId=4, recordedAmount=341, giveHistory={ver:0_init:-1={1=307, 2=293, 3=332, 8=281}}, getHistory={ver:0_init:-1={1=0, 2=270, 3=0, 8=284}}}, 3=LYSnapshotResult{serventId=3, recordedAmount=1890, giveHistory={ver:0_init:-1={2=0, 4=0, 5=0}}, getHistory={ver:0_init:-1={2=256, 4=332, 5=302}}}, 2=LYSnapshotResult{serventId=2, recordedAmount=213, giveHistory={ver:0_init:-1={0=294, 1=260, 3=256, 4=270}}, getHistory={ver:0_init:-1={0=0, 1=0, 3=0, 4=293}}}, 1=LYSnapshotResult{serventId=1, recordedAmount=1536, giveHistory={ver:0_init:-1={0=0, 2=0, 4=0}}, getHistory={ver:0_init:-1={0=0, 2=229, 4=307}}}, 0=LYSnapshotResult{serventId=0, recordedAmount=1114, giveHistory={ver:0_init:-1={1=0, 2=0}}, getHistory={ver:0_init:-1={1=0, 2=114}}}} regiosn:[0, 6, 14]
+11:26:09 - ROUND EXCHANGE MESSAGE RECEIVED{15=LYSnapshotResult{serventId=15, recordedAmount=1555, giveHistory={ver:0_init:-1={11=0, 13=0, 14=0}}, getHistory={ver:0_init:-1={11=274, 13=281, 14=0}}}, 14=LYSnapshotResult{serventId=14, recordedAmount=1304, giveHistory={ver:0_init:-1={12=0, 13=0, 15=0}}, getHistory={ver:0_init:-1={12=69, 13=235, 15=0}}}, 13=LYSnapshotResult{serventId=13, recordedAmount=400, giveHistory={ver:0_init:-1={7=293, 12=281, 14=305, 15=281}}, getHistory={ver:0_init:-1={7=269, 12=291, 14=0, 15=0}}}, 12=LYSnapshotResult{serventId=12, recordedAmount=702, giveHistory={ver:0_init:-1={13=291, 14=288}}, getHistory={ver:0_init:-1={13=281, 14=0}}}, 11=LYSnapshotResult{serventId=11, recordedAmount=423, giveHistory={ver:0_init:-1={10=303, 15=274}}, getHistory={ver:0_init:-1={10=0, 15=0}}}, 10=LYSnapshotResult{serventId=10, recordedAmount=1185, giveHistory={ver:0_init:-1={9=0, 11=0}}, getHistory={ver:0_init:-1={9=25, 11=160}}}, 9=LYSnapshotResult{serventId=9, recordedAmount=693, giveHistory={ver:0_init:-1={5=291, 8=296, 10=287}}, getHistory={ver:0_init:-1={5=290, 8=277, 10=0}}}, 8=LYSnapshotResult{serventId=8, recordedAmount=1016, giveHistory={ver:0_init:-1={4=284, 9=277}}, getHistory={ver:0_init:-1={4=281, 9=296}}}, 7=LYSnapshotResult{serventId=7, recordedAmount=711, giveHistory={ver:0_init:-1={5=258, 6=287, 13=269}}, getHistory={ver:0_init:-1={5=232, 6=0, 13=293}}}, 6=LYSnapshotResult{serventId=6, recordedAmount=1123, giveHistory={ver:0_init:-1={5=0, 7=0}}, getHistory={ver:0_init:-1={5=22, 7=101}}}, 5=LYSnapshotResult{serventId=5, recordedAmount=431, giveHistory={ver:0_init:-1={3=302, 6=237, 7=289, 9=290}}, getHistory={ver:0_init:-1={3=0, 6=0, 7=258, 9=291}}}, 4=LYSnapshotResult{serventId=4, recordedAmount=341, giveHistory={ver:0_init:-1={1=307, 2=293, 3=332, 8=281}}, getHistory={ver:0_init:-1={1=0, 2=270, 3=0, 8=284}}}, 3=LYSnapshotResult{serventId=3, recordedAmount=1890, giveHistory={ver:0_init:-1={2=0, 4=0, 5=0}}, getHistory={ver:0_init:-1={2=256, 4=332, 5=302}}}, 2=LYSnapshotResult{serventId=2, recordedAmount=213, giveHistory={ver:0_init:-1={0=294, 1=260, 3=256, 4=270}}, getHistory={ver:0_init:-1={0=0, 1=0, 3=0, 4=293}}}, 1=LYSnapshotResult{serventId=1, recordedAmount=1536, giveHistory={ver:0_init:-1={0=0, 2=0, 4=0}}, getHistory={ver:0_init:-1={0=0, 2=229, 4=307}}}, 0=LYSnapshotResult{serventId=0, recordedAmount=1114, giveHistory={ver:0_init:-1={1=0, 2=0}}, getHistory={ver:0_init:-1={1=0, 2=114}}}} regiosn:[0, 10, 14]
+11:26:09 - LYSnapshotResult{serventId=0, recordedAmount=1114, giveHistory={ver:0_init:-1={1=0, 2=0}}, getHistory={ver:0_init:-1={1=0, 2=114}}}
+11:26:09 - LYSnapshotResult{serventId=1, recordedAmount=1536, giveHistory={ver:0_init:-1={0=0, 2=0, 4=0}}, getHistory={ver:0_init:-1={0=0, 2=229, 4=307}}}
+11:26:09 - LYSnapshotResult{serventId=2, recordedAmount=213, giveHistory={ver:0_init:-1={0=294, 1=260, 3=256, 4=270}}, getHistory={ver:0_init:-1={0=0, 1=0, 3=0, 4=293}}}
+11:26:09 - LYSnapshotResult{serventId=3, recordedAmount=1890, giveHistory={ver:0_init:-1={2=0, 4=0, 5=0}}, getHistory={ver:0_init:-1={2=256, 4=332, 5=302}}}
+11:26:09 - LYSnapshotResult{serventId=4, recordedAmount=341, giveHistory={ver:0_init:-1={1=307, 2=293, 3=332, 8=281}}, getHistory={ver:0_init:-1={1=0, 2=270, 3=0, 8=284}}}
+11:26:09 - LYSnapshotResult{serventId=5, recordedAmount=431, giveHistory={ver:0_init:-1={3=302, 6=237, 7=289, 9=290}}, getHistory={ver:0_init:-1={3=0, 6=0, 7=258, 9=291}}}
+11:26:09 - LYSnapshotResult{serventId=6, recordedAmount=1123, giveHistory={ver:0_init:-1={5=0, 7=0}}, getHistory={ver:0_init:-1={5=22, 7=101}}}
+11:26:09 - LYSnapshotResult{serventId=7, recordedAmount=711, giveHistory={ver:0_init:-1={5=258, 6=287, 13=269}}, getHistory={ver:0_init:-1={5=232, 6=0, 13=293}}}
+11:26:09 - LYSnapshotResult{serventId=8, recordedAmount=1016, giveHistory={ver:0_init:-1={4=284, 9=277}}, getHistory={ver:0_init:-1={4=281, 9=296}}}
+11:26:09 - LYSnapshotResult{serventId=9, recordedAmount=693, giveHistory={ver:0_init:-1={5=291, 8=296, 10=287}}, getHistory={ver:0_init:-1={5=290, 8=277, 10=0}}}
+11:26:09 - LYSnapshotResult{serventId=10, recordedAmount=1185, giveHistory={ver:0_init:-1={9=0, 11=0}}, getHistory={ver:0_init:-1={9=25, 11=160}}}
+11:26:09 - LYSnapshotResult{serventId=11, recordedAmount=423, giveHistory={ver:0_init:-1={10=303, 15=274}}, getHistory={ver:0_init:-1={10=0, 15=0}}}
+11:26:09 - LYSnapshotResult{serventId=12, recordedAmount=702, giveHistory={ver:0_init:-1={13=291, 14=288}}, getHistory={ver:0_init:-1={13=281, 14=0}}}
+11:26:09 - LYSnapshotResult{serventId=13, recordedAmount=400, giveHistory={ver:0_init:-1={7=293, 12=281, 14=305, 15=281}}, getHistory={ver:0_init:-1={7=269, 12=291, 14=0, 15=0}}}
+11:26:09 - LYSnapshotResult{serventId=14, recordedAmount=1304, giveHistory={ver:0_init:-1={12=0, 13=0, 15=0}}, getHistory={ver:0_init:-1={12=69, 13=235, 15=0}}}
+11:26:09 - LYSnapshotResult{serventId=15, recordedAmount=1555, giveHistory={ver:0_init:-1={11=0, 13=0, 14=0}}, getHistory={ver:0_init:-1={11=274, 13=281, 14=0}}}
+11:26:09 - found regions[6, 10]
+11:26:09 - bitcake amount:ij= 0 from servent 0 and ji 0 servent 1 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 0 and ji 0 servent 2 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 1 and ji 0 servent 0 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 1 and ji 0 servent 2 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 1 and ji 0 servent 4 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 294 from servent 2 and ji 114 servent 0 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 260 from servent 2 and ji 229 servent 1 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 256 from servent 2 and ji 256 servent 3 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 270 from servent 2 and ji 270 servent 4 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 3 and ji 0 servent 2 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 3 and ji 0 servent 4 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 3 and ji 0 servent 5 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 307 from servent 4 and ji 307 servent 1 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 293 from servent 4 and ji 293 servent 2 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 332 from servent 4 and ji 332 servent 3 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 281 from servent 4 and ji 281 servent 8 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 302 from servent 5 and ji 302 servent 3 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 237 from servent 5 and ji 22 servent 6 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 289 from servent 5 and ji 232 servent 7 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 290 from servent 5 and ji 290 servent 9 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 6 and ji 0 servent 5 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 6 and ji 0 servent 7 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 258 from servent 7 and ji 258 servent 5 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 287 from servent 7 and ji 101 servent 6 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 269 from servent 7 and ji 269 servent 13 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 284 from servent 8 and ji 284 servent 4 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 277 from servent 8 and ji 277 servent 9 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 291 from servent 9 and ji 291 servent 5 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 296 from servent 9 and ji 296 servent 8 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 287 from servent 9 and ji 25 servent 10 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 10 and ji 0 servent 9 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 10 and ji 0 servent 11 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 303 from servent 11 and ji 160 servent 10 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 274 from servent 11 and ji 274 servent 15 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 291 from servent 12 and ji 291 servent 13 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 288 from servent 12 and ji 69 servent 14 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 293 from servent 13 and ji 293 servent 7 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 281 from servent 13 and ji 281 servent 12 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 305 from servent 13 and ji 235 servent 14 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 281 from servent 13 and ji 281 servent 15 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 14 and ji 0 servent 12 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 14 and ji 0 servent 13 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 14 and ji 0 servent 15 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 15 and ji 0 servent 11 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 15 and ji 0 servent 13 in snapshot version 0.
+11:26:09 - bitcake amount:ij= 0 from servent 15 and ji 0 servent 14 in snapshot version 0.
+11:26:09 - Snapshot version ver:0_init:0 finished.
+11:26:20 - STARTED COLLECTING
+11:26:20 - Marker event for: 0 initiated by 0 recordedamount: 1114  getHistory: {ver:1_init:0={1=0, 2=252}, ver:0_init:-1={1=0, 2=294}}
+11:26:20 - regionList: []
+ colectedvalues {}
+11:26:20 - give history {ver:1_init:0={1=0, 2=0}, ver:0_init:-1={1=0, 2=0}}
+
+11:26:20 - get history {ver:1_init:0={1=0, 2=252}, ver:0_init:-1={1=0, 2=294}}
+
+11:26:20 - 
+Snapshot result: LYSnapshotResult{serventId=0, recordedAmount=1546, giveHistory={ver:1_init:0={1=0, 2=0}}, getHistory={ver:1_init:0={1=0, 2=252}}}
+
+11:26:25 - TELL MESSAGE RECEIVED{2=LYSnapshotResult{serventId=2, recordedAmount=-552, giveHistory={ver:1_init:0={0=252, 1=292, 3=282, 4=261}}, getHistory={ver:1_init:0={0=0, 1=0, 3=0, 4=322}}}} regiosn:[0]
+11:26:31 - TELL MESSAGE RECEIVED{1=LYSnapshotResult{serventId=1, recordedAmount=2112, giveHistory={ver:1_init:0={0=0, 2=0, 4=0}}, getHistory={ver:1_init:0={0=0, 2=292, 4=253}}}, 3=LYSnapshotResult{serventId=3, recordedAmount=2748, giveHistory={ver:1_init:0={2=0, 4=0, 5=0}}, getHistory={ver:1_init:0={2=282, 4=275, 5=301}}}, 4=LYSnapshotResult{serventId=4, recordedAmount=-259, giveHistory={ver:1_init:0={1=253, 2=322, 3=275, 8=301}}, getHistory={ver:1_init:0={1=0, 2=261, 3=0, 8=290}}}, 5=LYSnapshotResult{serventId=5, recordedAmount=-212, giveHistory={ver:1_init:0={3=301, 6=292, 7=288, 9=295}}, getHistory={ver:1_init:0={3=0, 6=0, 7=239, 9=294}}}, 8=LYSnapshotResult{serventId=8, recordedAmount=1052, giveHistory={ver:1_init:0={4=290, 9=261}}, getHistory={ver:1_init:0={4=301, 9=286}}}, 9=LYSnapshotResult{serventId=9, recordedAmount=391, giveHistory={ver:1_init:0={5=294, 8=286, 10=278}}, getHistory={ver:1_init:0={5=295, 8=261, 10=0}}}} regiosn:[0, 14]
+11:26:31 - IZASAO IZ CUDNOG WHILEA{0=LYSnapshotResult{serventId=0, recordedAmount=1546, giveHistory={ver:1_init:0={1=0, 2=0}}, getHistory={ver:1_init:0={1=0, 2=252}}}, 1=LYSnapshotResult{serventId=1, recordedAmount=2112, giveHistory={ver:1_init:0={0=0, 2=0, 4=0}}, getHistory={ver:1_init:0={0=0, 2=292, 4=253}}}, 2=LYSnapshotResult{serventId=2, recordedAmount=-552, giveHistory={ver:1_init:0={0=252, 1=292, 3=282, 4=261}}, getHistory={ver:1_init:0={0=0, 1=0, 3=0, 4=322}}}, 3=LYSnapshotResult{serventId=3, recordedAmount=2748, giveHistory={ver:1_init:0={2=0, 4=0, 5=0}}, getHistory={ver:1_init:0={2=282, 4=275, 5=301}}}, 4=LYSnapshotResult{serventId=4, recordedAmount=-259, giveHistory={ver:1_init:0={1=253, 2=322, 3=275, 8=301}}, getHistory={ver:1_init:0={1=0, 2=261, 3=0, 8=290}}}, 5=LYSnapshotResult{serventId=5, recordedAmount=-212, giveHistory={ver:1_init:0={3=301, 6=292, 7=288, 9=295}}, getHistory={ver:1_init:0={3=0, 6=0, 7=239, 9=294}}}, 8=LYSnapshotResult{serventId=8, recordedAmount=1052, giveHistory={ver:1_init:0={4=290, 9=261}}, getHistory={ver:1_init:0={4=301, 9=286}}}, 9=LYSnapshotResult{serventId=9, recordedAmount=391, giveHistory={ver:1_init:0={5=294, 8=286, 10=278}}, getHistory={ver:1_init:0={5=295, 8=261, 10=0}}}}
+11:26:32 - 
+ my before rounds values are for [0, 1, 2, 3, 4, 5, 8, 9]
+11:26:32 - initiatiors list from config [0, 6, 10, 14]
+11:26:33 - ROUND EXCHANGE MESSAGE RECEIVED{14=LYSnapshotResult{serventId=14, recordedAmount=2148, giveHistory={ver:1_init:14={12=0, 13=0, 15=0}}, getHistory={ver:1_init:14={12=259, 13=296, 15=0}}}, 13=LYSnapshotResult{serventId=13, recordedAmount=-227, giveHistory={ver:1_init:14={7=319, 12=257, 14=296, 15=280}}, getHistory={ver:1_init:14={7=252, 12=273, 14=0, 15=0}}}, 12=LYSnapshotResult{serventId=12, recordedAmount=427, giveHistory={ver:1_init:14={13=273, 14=259}}, getHistory={ver:1_init:14={13=257, 14=0}}}, 11=LYSnapshotResult{serventId=11, recordedAmount=-173, giveHistory={ver:1_init:14={10=327, 15=269}}, getHistory={ver:1_init:14={10=0, 15=0}}}, 10=LYSnapshotResult{serventId=10, recordedAmount=2195, giveHistory={ver:1_init:14={9=0, 11=0}}, getHistory={ver:1_init:14={9=278, 11=327}}}, 7=LYSnapshotResult{serventId=7, recordedAmount=610, giveHistory={ver:1_init:14={5=239, 6=274, 13=252}}, getHistory={ver:1_init:14={5=288, 6=0, 13=319}}}, 6=LYSnapshotResult{serventId=6, recordedAmount=2090, giveHistory={ver:1_init:14={5=0, 7=0}}, getHistory={ver:1_init:14={5=292, 7=274}}}, 15=LYSnapshotResult{serventId=15, recordedAmount=2104, giveHistory={ver:1_init:14={11=0, 13=0, 14=0}}, getHistory={ver:1_init:14={11=269, 13=280, 14=0}}}} regiosn:[0]
+11:26:35 - ROUND EXCHANGE MESSAGE RECEIVED{15=LYSnapshotResult{serventId=15, recordedAmount=2104, giveHistory={ver:1_init:14={11=0, 13=0, 14=0}}, getHistory={ver:1_init:14={11=269, 13=280, 14=0}}}, 14=LYSnapshotResult{serventId=14, recordedAmount=2148, giveHistory={ver:1_init:14={12=0, 13=0, 15=0}}, getHistory={ver:1_init:14={12=259, 13=296, 15=0}}}, 13=LYSnapshotResult{serventId=13, recordedAmount=-227, giveHistory={ver:1_init:14={7=319, 12=257, 14=296, 15=280}}, getHistory={ver:1_init:14={7=252, 12=273, 14=0, 15=0}}}, 12=LYSnapshotResult{serventId=12, recordedAmount=427, giveHistory={ver:1_init:14={13=273, 14=259}}, getHistory={ver:1_init:14={13=257, 14=0}}}, 11=LYSnapshotResult{serventId=11, recordedAmount=-173, giveHistory={ver:1_init:14={10=327, 15=269}}, getHistory={ver:1_init:14={10=0, 15=0}}}, 10=LYSnapshotResult{serventId=10, recordedAmount=2195, giveHistory={ver:1_init:14={9=0, 11=0}}, getHistory={ver:1_init:14={9=278, 11=327}}}, 9=LYSnapshotResult{serventId=9, recordedAmount=391, giveHistory={ver:1_init:0={5=294, 8=286, 10=278}}, getHistory={ver:1_init:0={5=295, 8=261, 10=0}}}, 8=LYSnapshotResult{serventId=8, recordedAmount=1052, giveHistory={ver:1_init:0={4=290, 9=261}}, getHistory={ver:1_init:0={4=301, 9=286}}}, 7=LYSnapshotResult{serventId=7, recordedAmount=610, giveHistory={ver:1_init:14={5=239, 6=274, 13=252}}, getHistory={ver:1_init:14={5=288, 6=0, 13=319}}}, 6=LYSnapshotResult{serventId=6, recordedAmount=2090, giveHistory={ver:1_init:14={5=0, 7=0}}, getHistory={ver:1_init:14={5=292, 7=274}}}, 5=LYSnapshotResult{serventId=5, recordedAmount=-212, giveHistory={ver:1_init:0={3=301, 6=292, 7=288, 9=295}}, getHistory={ver:1_init:0={3=0, 6=0, 7=239, 9=294}}}, 4=LYSnapshotResult{serventId=4, recordedAmount=-259, giveHistory={ver:1_init:0={1=253, 2=322, 3=275, 8=301}}, getHistory={ver:1_init:0={1=0, 2=261, 3=0, 8=290}}}, 3=LYSnapshotResult{serventId=3, recordedAmount=2748, giveHistory={ver:1_init:0={2=0, 4=0, 5=0}}, getHistory={ver:1_init:0={2=282, 4=275, 5=301}}}, 2=LYSnapshotResult{serventId=2, recordedAmount=-552, giveHistory={ver:1_init:0={0=252, 1=292, 3=282, 4=261}}, getHistory={ver:1_init:0={0=0, 1=0, 3=0, 4=322}}}, 1=LYSnapshotResult{serventId=1, recordedAmount=2112, giveHistory={ver:1_init:0={0=0, 2=0, 4=0}}, getHistory={ver:1_init:0={0=0, 2=292, 4=253}}}, 0=LYSnapshotResult{serventId=0, recordedAmount=1546, giveHistory={ver:1_init:0={1=0, 2=0}}, getHistory={ver:1_init:0={1=0, 2=252}}}} regiosn:[0]
+11:26:35 - LYSnapshotResult{serventId=0, recordedAmount=1546, giveHistory={ver:1_init:0={1=0, 2=0}}, getHistory={ver:1_init:0={1=0, 2=252}}}
+11:26:35 - LYSnapshotResult{serventId=1, recordedAmount=2112, giveHistory={ver:1_init:0={0=0, 2=0, 4=0}}, getHistory={ver:1_init:0={0=0, 2=292, 4=253}}}
+11:26:35 - LYSnapshotResult{serventId=2, recordedAmount=-552, giveHistory={ver:1_init:0={0=252, 1=292, 3=282, 4=261}}, getHistory={ver:1_init:0={0=0, 1=0, 3=0, 4=322}}}
+11:26:35 - LYSnapshotResult{serventId=3, recordedAmount=2748, giveHistory={ver:1_init:0={2=0, 4=0, 5=0}}, getHistory={ver:1_init:0={2=282, 4=275, 5=301}}}
+11:26:35 - LYSnapshotResult{serventId=4, recordedAmount=-259, giveHistory={ver:1_init:0={1=253, 2=322, 3=275, 8=301}}, getHistory={ver:1_init:0={1=0, 2=261, 3=0, 8=290}}}
+11:26:35 - LYSnapshotResult{serventId=5, recordedAmount=-212, giveHistory={ver:1_init:0={3=301, 6=292, 7=288, 9=295}}, getHistory={ver:1_init:0={3=0, 6=0, 7=239, 9=294}}}
+11:26:35 - LYSnapshotResult{serventId=6, recordedAmount=2090, giveHistory={ver:1_init:14={5=0, 7=0}}, getHistory={ver:1_init:14={5=292, 7=274}}}
+11:26:35 - LYSnapshotResult{serventId=7, recordedAmount=610, giveHistory={ver:1_init:14={5=239, 6=274, 13=252}}, getHistory={ver:1_init:14={5=288, 6=0, 13=319}}}
+11:26:35 - LYSnapshotResult{serventId=8, recordedAmount=1052, giveHistory={ver:1_init:0={4=290, 9=261}}, getHistory={ver:1_init:0={4=301, 9=286}}}
+11:26:35 - LYSnapshotResult{serventId=9, recordedAmount=391, giveHistory={ver:1_init:0={5=294, 8=286, 10=278}}, getHistory={ver:1_init:0={5=295, 8=261, 10=0}}}
+11:26:35 - LYSnapshotResult{serventId=10, recordedAmount=2195, giveHistory={ver:1_init:14={9=0, 11=0}}, getHistory={ver:1_init:14={9=278, 11=327}}}
+11:26:35 - LYSnapshotResult{serventId=11, recordedAmount=-173, giveHistory={ver:1_init:14={10=327, 15=269}}, getHistory={ver:1_init:14={10=0, 15=0}}}
+11:26:35 - LYSnapshotResult{serventId=12, recordedAmount=427, giveHistory={ver:1_init:14={13=273, 14=259}}, getHistory={ver:1_init:14={13=257, 14=0}}}
+11:26:35 - LYSnapshotResult{serventId=13, recordedAmount=-227, giveHistory={ver:1_init:14={7=319, 12=257, 14=296, 15=280}}, getHistory={ver:1_init:14={7=252, 12=273, 14=0, 15=0}}}
+11:26:35 - LYSnapshotResult{serventId=14, recordedAmount=2148, giveHistory={ver:1_init:14={12=0, 13=0, 15=0}}, getHistory={ver:1_init:14={12=259, 13=296, 15=0}}}
+11:26:35 - LYSnapshotResult{serventId=15, recordedAmount=2104, giveHistory={ver:1_init:14={11=0, 13=0, 14=0}}, getHistory={ver:1_init:14={11=269, 13=280, 14=0}}}
+11:26:35 - found regions[14]
+11:26:35 - bitcake amount:ij= 0 from servent 0 and ji 0 servent 1 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 0 and ji 0 servent 2 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 1 and ji 0 servent 0 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 1 and ji 0 servent 2 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 1 and ji 0 servent 4 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 252 from servent 2 and ji 252 servent 0 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 292 from servent 2 and ji 292 servent 1 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 282 from servent 2 and ji 282 servent 3 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 261 from servent 2 and ji 261 servent 4 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 3 and ji 0 servent 2 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 3 and ji 0 servent 4 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 3 and ji 0 servent 5 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 253 from servent 4 and ji 253 servent 1 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 322 from servent 4 and ji 322 servent 2 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 275 from servent 4 and ji 275 servent 3 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 301 from servent 4 and ji 301 servent 8 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 301 from servent 5 and ji 301 servent 3 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 292 from servent 5 and ji 292 servent 6 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 288 from servent 5 and ji 288 servent 7 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 295 from servent 5 and ji 295 servent 9 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 6 and ji 0 servent 5 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 6 and ji 0 servent 7 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 239 from servent 7 and ji 239 servent 5 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 274 from servent 7 and ji 274 servent 6 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 252 from servent 7 and ji 252 servent 13 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 290 from servent 8 and ji 290 servent 4 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 261 from servent 8 and ji 261 servent 9 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 294 from servent 9 and ji 294 servent 5 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 286 from servent 9 and ji 286 servent 8 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 278 from servent 9 and ji 278 servent 10 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 10 and ji 0 servent 9 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 10 and ji 0 servent 11 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 327 from servent 11 and ji 327 servent 10 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 269 from servent 11 and ji 269 servent 15 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 273 from servent 12 and ji 273 servent 13 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 259 from servent 12 and ji 259 servent 14 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 319 from servent 13 and ji 319 servent 7 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 257 from servent 13 and ji 257 servent 12 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 296 from servent 13 and ji 296 servent 14 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 280 from servent 13 and ji 280 servent 15 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 14 and ji 0 servent 12 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 14 and ji 0 servent 13 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 14 and ji 0 servent 15 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 15 and ji 0 servent 11 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 15 and ji 0 servent 13 in snapshot version 1.
+11:26:35 - bitcake amount:ij= 0 from servent 15 and ji 0 servent 14 in snapshot version 1.
+11:26:35 - Snapshot version ver:1_init:0 finished.

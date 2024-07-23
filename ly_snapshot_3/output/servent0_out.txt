@@ -1,0 +1,190 @@
+11:25:57 - Starting servent [0|localhost|1100]
+11:25:57 - Pausing for 1000 ms
+11:25:58 - Pausing for 22000 ms
+11:25:59 - Got message [2|84|9|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|80|3|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|9|9|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|8|2|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|1|10|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|40|10|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|134|5|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|2|1|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|156|9|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|49|10|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|129|10|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|120|2|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|87|5|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|82|7|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|41|6|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|169|2|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|173|5|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|0|9|TRANSACTION|0] v:ver:0_init:-1
+11:25:59 - Got message [2|122|6|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|160|9|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|45|9|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|93|9|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|43|1|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|83|2|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|94|1|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|5|2|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|162|1|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|127|4|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|47|6|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|133|7|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|48|10|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|116|9|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|166|9|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|161|2|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|6|3|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|155|8|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|115|5|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|46|6|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|42|6|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|44|10|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|89|4|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|7|4|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|121|7|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|4|10|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|128|4|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|81|9|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|88|5|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Sending message [0|0|0|LY_MARKER|1] v:ver:1_init:0
+11:26:00 - Got message [2|167|7|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|3|4|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Got message [2|168|1|TRANSACTION|0] v:ver:0_init:-1
+11:26:00 - Sending message [0|1|0|LY_MARKER|2] v:ver:1_init:0
+11:26:05 - Got message [2|205||LY_TELL|0] v:ver:1_init:0
+11:26:05 - Got message [1|3||LY_TELL|0] v:ver:1_init:0
+11:26:06 - Got message [6|2||SK_ROUND_EXCHANGE|0] v:ver:1_init:6
+11:26:07 - found regions before exchange[0, 6, 10]
+11:26:07 - Current known values are for [0, 1, 2, 3, 4]
+11:26:07 - ROUND 1 GO 
+11:26:07 - Im sending message to region: 6
+11:26:07 - Im sending message to region: 10
+11:26:07 - Sending message [0|2||SK_ROUND_EXCHANGE|6] v:ver:1_init:0
+11:26:08 - Sending message [0|3||SK_ROUND_EXCHANGE|10] v:ver:1_init:0
+11:26:08 - Got message [10|2||SK_ROUND_EXCHANGE|0] v:ver:1_init:10
+11:26:08 - Current known values are for [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+11:26:08 - ROUND 2 GO 
+11:26:08 - Im sending message to region: 6
+11:26:08 - Im sending message to region: 10
+11:26:08 - Got message [10|5||SK_ROUND_EXCHANGE|0] v:ver:1_init:10
+11:26:08 - Current known values are for [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+11:26:08 - ROUND 3 GO 
+11:26:08 - Im sending message to region: 6
+11:26:08 - Im sending message to region: 10
+11:26:09 - Sending message [0|5||SK_ROUND_EXCHANGE|10] v:ver:1_init:0
+11:26:09 - Got message [6|5||SK_ROUND_EXCHANGE|0] v:ver:1_init:6
+11:26:09 - Recorded bitcake amount for 0 = 1114
+11:26:09 - Recorded bitcake amount for 1 = 1536
+11:26:09 - Recorded bitcake amount for 2 = 213
+11:26:09 - Recorded bitcake amount for 3 = 1890
+11:26:09 - Recorded bitcake amount for 4 = 341
+11:26:09 - Recorded bitcake amount for 5 = 431
+11:26:09 - Recorded bitcake amount for 6 = 1123
+11:26:09 - Recorded bitcake amount for 7 = 711
+11:26:09 - Recorded bitcake amount for 8 = 1016
+11:26:09 - Recorded bitcake amount for 9 = 693
+11:26:09 - Recorded bitcake amount for 10 = 1185
+11:26:09 - Recorded bitcake amount for 11 = 423
+11:26:09 - Recorded bitcake amount for 12 = 702
+11:26:09 - Recorded bitcake amount for 13 = 400
+11:26:09 - Recorded bitcake amount for 14 = 1304
+11:26:09 - Recorded bitcake amount for 15 = 1555
+11:26:09 - Unreceived bitcake amount: 180 from servent 2 to servent 0 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 31 from servent 2 to servent 1 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 215 from servent 5 to servent 6 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 57 from servent 5 to servent 7 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 186 from servent 7 to servent 6 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 262 from servent 9 to servent 10 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 143 from servent 11 to servent 10 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 219 from servent 12 to servent 14 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 70 from servent 13 to servent 14 in snapshot version 0.
+11:26:09 - System bitcake count: 16000
+11:26:09 - Sending message [0|4||SK_ROUND_EXCHANGE|6] v:ver:1_init:0
+11:26:09 - Sending message [0|7||SK_ROUND_EXCHANGE|10] v:ver:1_init:0
+11:26:10 - Sending message [0|6||SK_ROUND_EXCHANGE|6] v:ver:1_init:0
+11:26:18 - Got message [2|349|2|TRANSACTION|0] v:ver:1_init:0
+11:26:18 - Got message [2|242|3|TRANSACTION|0] v:ver:1_init:0
+11:26:18 - Got message [2|288|7|TRANSACTION|0] v:ver:1_init:0
+11:26:18 - Got message [2|230|3|TRANSACTION|0] v:ver:1_init:0
+11:26:18 - Got message [2|321|2|TRANSACTION|0] v:ver:1_init:0
+11:26:18 - Got message [2|292|6|TRANSACTION|0] v:ver:1_init:0
+11:26:18 - Got message [2|309|7|TRANSACTION|0] v:ver:1_init:0
+11:26:18 - Got message [2|270|4|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|353|6|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|269|8|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|366|7|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|274|7|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|345|9|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|211|8|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|246|1|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|361|4|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|233|1|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|281|6|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|286|4|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|354|3|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|273|7|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|391|1|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|287|5|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|328|9|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|226|3|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|326|3|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|208|1|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|332|2|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|219|8|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|265|1|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|214|9|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|206|7|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|392|9|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|248|6|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|231|3|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|385|7|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|310|10|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|252|3|TRANSACTION|0] v:ver:1_init:0
+11:26:19 - Got message [2|372|10|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|367|4|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|314|4|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|241|2|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|350|4|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|207|9|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|368|5|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|247|6|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|305|6|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|209|1|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|313|8|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Got message [2|327|1|TRANSACTION|0] v:ver:1_init:0
+11:26:20 - Pausing for 24000 ms
+11:26:21 - Sending message [0|8|0|LY_MARKER|1] v:ver:2_init:0
+11:26:22 - Sending message [0|9|0|LY_MARKER|2] v:ver:2_init:0
+11:26:25 - Got message [2|412||LY_TELL|0] v:ver:2_init:0
+11:26:31 - Got message [1|7||LY_TELL|0] v:ver:2_init:0
+11:26:32 - found regions before exchange[0, 14]
+11:26:32 - Current known values are for [0, 1, 2, 3, 4, 5, 8, 9]
+11:26:32 - ROUND 1 GO 
+11:26:32 - Im sending message to region: 14
+11:26:33 - Sending message [0|10||SK_ROUND_EXCHANGE|14] v:ver:2_init:0
+11:26:33 - Got message [14|12||SK_ROUND_EXCHANGE|0] v:ver:2_init:14
+11:26:33 - Current known values are for [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+11:26:33 - ROUND 2 GO 
+11:26:33 - Im sending message to region: 14
+11:26:35 - Sending message [0|11||SK_ROUND_EXCHANGE|14] v:ver:2_init:0
+11:26:35 - Got message [14|13||SK_ROUND_EXCHANGE|0] v:ver:2_init:14
+11:26:35 - Recorded bitcake amount for 0 = 1546
+11:26:35 - Recorded bitcake amount for 1 = 2112
+11:26:35 - Recorded bitcake amount for 2 = -552
+11:26:35 - Recorded bitcake amount for 3 = 2748
+11:26:35 - Recorded bitcake amount for 4 = -259
+11:26:35 - Recorded bitcake amount for 5 = -212
+11:26:35 - Recorded bitcake amount for 6 = 2090
+11:26:35 - Recorded bitcake amount for 7 = 610
+11:26:35 - Recorded bitcake amount for 8 = 1052
+11:26:35 - Recorded bitcake amount for 9 = 391
+11:26:35 - Recorded bitcake amount for 10 = 2195
+11:26:35 - Recorded bitcake amount for 11 = -173
+11:26:35 - Recorded bitcake amount for 12 = 427
+11:26:35 - Recorded bitcake amount for 13 = -227
+11:26:35 - Recorded bitcake amount for 14 = 2148
+11:26:35 - Recorded bitcake amount for 15 = 2104
+11:26:35 - System bitcake count: 16000
+11:26:44 - Stopping...

@@ -1,0 +1,138 @@
+23:37:26 - Starting servent [7|localhost|1800]
+23:37:26 - Pausing for 500 ms
+23:37:27 - Pausing for 20000 ms
+23:37:28 - Got message [0|39|10|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|32|9|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|198|6|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|73|7|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|152|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|72|8|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|156|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Sending message [7|0|7|LY_MARKER|0] v:ver:1_init:7
+23:37:28 - Got message [0|37|3|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|115|6|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|188|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|114|9|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|121|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|108|4|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|143|10|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|79|1|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|35|9|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|76|2|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|40|4|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|161|2|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|154|7|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|33|4|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|167|2|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|120|7|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|160|9|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|197|1|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|71|8|TRANSACTION|7] v:ver:0_init:-1
+23:37:28 - Got message [0|149|6|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|112|1|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|75|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|155|10|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|117|9|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|74|8|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|31|6|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|28|6|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|116|3|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|36|1|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|183|3|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|68|9|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|148|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|193|7|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|119|8|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|80|2|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|77|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|34|3|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|103|3|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|192|10|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|195|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|194|6|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|189|5|TRANSACTION|7] v:ver:0_init:-1
+23:37:29 - Got message [0|199|6|TRANSACTION|7] v:ver:0_init:-1
+23:37:34 - Got message [0|205||LY_TELL|7] v:ver:1_init:7
+23:37:34 - Got message [4|2||SK_ROUND_EXCHANGE|7] v:ver:1_init:4
+23:37:34 - found regions before exchange[4]
+23:37:34 - Current known values are for [0, 1, 7]
+23:37:34 - ROUND 1 GO 
+23:37:34 - Im sending message to region: 4
+23:37:34 - Current known values are for [0, 1, 2, 3, 4, 5, 6, 7]
+23:37:34 - ROUND 2 GO 
+23:37:34 - Im sending message to region: 4
+23:37:36 - Sending message [7|1||SK_ROUND_EXCHANGE|4] v:ver:1_init:7
+23:37:36 - Sending message [7|2||SK_ROUND_EXCHANGE|4] v:ver:1_init:7
+23:37:36 - Got message [4|3||SK_ROUND_EXCHANGE|7] v:ver:1_init:4
+23:37:37 - Recorded bitcake amount for 0 = 169
+23:37:37 - Recorded bitcake amount for 1 = 720
+23:37:37 - Recorded bitcake amount for 2 = 614
+23:37:37 - Recorded bitcake amount for 3 = 1514
+23:37:37 - Recorded bitcake amount for 4 = 1000
+23:37:37 - Recorded bitcake amount for 5 = 603
+23:37:37 - Recorded bitcake amount for 6 = 816
+23:37:37 - Recorded bitcake amount for 7 = 1000
+23:37:37 - Unreceived bitcake amount: 280 from servent 0 to servent 7 in snapshot version 0.
+23:37:37 - Unreceived bitcake amount: 206 from servent 2 to servent 0 in snapshot version 0.
+23:37:37 - Unreceived bitcake amount: 38 from servent 2 to servent 3 in snapshot version 0.
+23:37:37 - Unreceived bitcake amount: 202 from servent 5 to servent 4 in snapshot version 0.
+23:37:37 - Unreceived bitcake amount: 265 from servent 6 to servent 0 in snapshot version 0.
+23:37:37 - Unreceived bitcake amount: 86 from servent 6 to servent 2 in snapshot version 0.
+23:37:37 - Unreceived bitcake amount: 248 from servent 6 to servent 3 in snapshot version 0.
+23:37:37 - Unreceived bitcake amount: 239 from servent 6 to servent 5 in snapshot version 0.
+23:37:37 - System bitcake count: 8000
+23:37:43 - Got message [0|403|6|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|254|7|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|395|6|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|398|7|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|297|10|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|387|3|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|337|8|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|292|1|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|364|1|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|325|9|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|220|6|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|388|3|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|229|5|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|275|4|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|251|4|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|376|4|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|285|1|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|324|6|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|332|9|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|228|8|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|273|9|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|278|3|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|257|4|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|234|5|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|252|2|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|405|8|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|371|1|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|320|7|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|306|8|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|358|6|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|401|9|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|291|4|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|353|3|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|365|3|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|224|2|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|280|1|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|313|3|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|299|8|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|233|4|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|394|3|TRANSACTION|7] v:ver:1_init:7
+23:37:43 - Got message [0|318|1|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|389|4|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|259|2|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|339|2|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|266|2|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|360|4|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|372|6|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|378|8|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|346|4|TRANSACTION|7] v:ver:1_init:7
+23:37:44 - Got message [0|331|7|TRANSACTION|7] v:ver:1_init:7
+23:37:47 - Pausing for 15000 ms
+23:37:50 - Got message [0|408|4|LY_MARKER|7] v:ver:2_init:4
+23:37:50 - My children are[7]and my parent is 0
+23:37:51 - Sending message [7|3||LY_TELL|0] v:ver:2_init:4
+23:38:02 - Stopping...

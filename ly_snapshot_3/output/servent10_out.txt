@@ -1,0 +1,266 @@
+11:25:57 - Starting servent [10|localhost|1250]
+11:25:57 - Pausing for 1000 ms
+11:25:58 - Pausing for 40000 ms
+11:25:59 - Got message [11|4|6|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|69|6|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|68|10|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|87|8|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|48|10|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|49|4|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|65|4|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|7|9|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|46|3|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|1|5|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|85|6|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|61|3|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|60|10|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|22|2|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|84|9|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [9|47|5|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [9|114|1|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|25|10|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|28|8|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|64|8|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [9|140|9|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [9|92|4|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|2|3|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|43|9|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|8|3|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|3|5|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|89|3|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|45|6|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [9|44|5|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [9|94|1|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|27|10|TRANSACTION|10] v:ver:0_init:-1
+11:25:59 - Got message [11|67|7|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|20|5|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|5|9|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|108|5|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|66|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|24|9|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|81|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|80|5|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|83|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|82|6|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|5|7|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|24|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|111|1|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|63|4|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|46|7|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|6|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|143|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|47|2|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|28|1|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|29|4|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|62|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|26|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|9|4|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|120|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|44|1|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|106|4|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|83|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|57|6|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|41|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|123|6|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|62|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|42|1|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|88|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|137|5|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|40|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|23|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|21|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|86|2|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|68|2|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [11|0|6|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|8|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|4|7|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|77|9|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|89|2|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|103|9|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|22|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|116|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|17|5|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|97|5|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|80|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|125|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|107|9|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|54|4|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|32|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|65|7|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|45|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|31|10|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|71|1|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|14|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|37|2|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|131|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|74|4|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|128|6|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|52|6|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|149|7|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|134|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|100|1|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|146|8|TRANSACTION|10] v:ver:0_init:-1
+11:26:00 - Got message [9|86|3|TRANSACTION|10] v:ver:0_init:-1
+11:26:01 - Sending message [10|1|10|LY_MARKER|11] v:ver:1_init:10
+11:26:01 - Sending message [10|0|10|LY_MARKER|9] v:ver:1_init:10
+11:26:03 - Got message [11|102||LY_TELL|10] v:ver:1_init:10
+11:26:05 - Got message [14|4||SK_ROUND_EXCHANGE|10] v:ver:1_init:14
+11:26:05 - Got message [6|3||SK_ROUND_EXCHANGE|10] v:ver:1_init:6
+11:26:06 - Got message [9|153||LY_TELL|10] v:ver:1_init:10
+11:26:07 - found regions before exchange[0, 6, 14]
+11:26:07 - Current known values are for [8, 9, 10, 11]
+11:26:07 - ROUND 1 GO 
+11:26:07 - Im sending message to region: 0
+11:26:07 - Im sending message to region: 6
+11:26:07 - Im sending message to region: 14
+11:26:07 - Sending message [10|4||SK_ROUND_EXCHANGE|14] v:ver:1_init:10
+11:26:08 - Sending message [10|3||SK_ROUND_EXCHANGE|6] v:ver:1_init:10
+11:26:08 - Got message [0|3||SK_ROUND_EXCHANGE|10] v:ver:1_init:0
+11:26:08 - Current known values are for [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+11:26:08 - ROUND 2 GO 
+11:26:08 - Im sending message to region: 0
+11:26:08 - Im sending message to region: 6
+11:26:08 - Im sending message to region: 14
+11:26:08 - Sending message [10|2||SK_ROUND_EXCHANGE|0] v:ver:1_init:10
+11:26:08 - Sending message [10|5||SK_ROUND_EXCHANGE|0] v:ver:1_init:10
+11:26:08 - Sending message [10|7||SK_ROUND_EXCHANGE|14] v:ver:1_init:10
+11:26:08 - Sending message [10|6||SK_ROUND_EXCHANGE|6] v:ver:1_init:10
+11:26:08 - Got message [14|6||SK_ROUND_EXCHANGE|10] v:ver:1_init:14
+11:26:09 - Got message [0|5||SK_ROUND_EXCHANGE|10] v:ver:1_init:0
+11:26:09 - Recorded bitcake amount for 0 = 1114
+11:26:09 - Recorded bitcake amount for 1 = 1536
+11:26:09 - Recorded bitcake amount for 2 = 213
+11:26:09 - Recorded bitcake amount for 3 = 1890
+11:26:09 - Recorded bitcake amount for 4 = 341
+11:26:09 - Recorded bitcake amount for 5 = 431
+11:26:09 - Recorded bitcake amount for 6 = 1123
+11:26:09 - Recorded bitcake amount for 7 = 711
+11:26:09 - Recorded bitcake amount for 8 = 1016
+11:26:09 - Recorded bitcake amount for 9 = 693
+11:26:09 - Recorded bitcake amount for 10 = 1185
+11:26:09 - Recorded bitcake amount for 11 = 423
+11:26:09 - Recorded bitcake amount for 12 = 702
+11:26:09 - Recorded bitcake amount for 13 = 400
+11:26:09 - Recorded bitcake amount for 14 = 1304
+11:26:09 - Recorded bitcake amount for 15 = 1555
+11:26:09 - Unreceived bitcake amount: 180 from servent 2 to servent 0 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 31 from servent 2 to servent 1 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 215 from servent 5 to servent 6 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 57 from servent 5 to servent 7 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 186 from servent 7 to servent 6 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 262 from servent 9 to servent 10 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 143 from servent 11 to servent 10 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 219 from servent 12 to servent 14 in snapshot version 0.
+11:26:09 - Unreceived bitcake amount: 70 from servent 13 to servent 14 in snapshot version 0.
+11:26:09 - System bitcake count: 16000
+11:26:09 - Got message [6|6||SK_ROUND_EXCHANGE|10] v:ver:1_init:6
+11:26:09 - Got message [0|7||SK_ROUND_EXCHANGE|10] v:ver:1_init:0
+11:26:10 - Got message [14|8||SK_ROUND_EXCHANGE|10] v:ver:1_init:14
+11:26:18 - Got message [11|119|8|TRANSACTION|10] v:ver:1_init:10
+11:26:18 - Got message [11|121|4|TRANSACTION|10] v:ver:1_init:10
+11:26:18 - Got message [11|111|7|TRANSACTION|10] v:ver:1_init:10
+11:26:18 - Got message [11|193|6|TRANSACTION|10] v:ver:1_init:10
+11:26:18 - Got message [11|167|10|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|132|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|177|4|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|115|3|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|128|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|195|10|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|106|6|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|150|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|184|10|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|173|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|107|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|140|6|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|109|2|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|172|6|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|166|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|133|5|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|170|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|110|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|155|4|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|146|6|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|171|5|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|159|5|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|180|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|153|10|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|136|10|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|191|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|104|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|237|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|137|2|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|194|4|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|142|4|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|192|5|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|134|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|219|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|180|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|254|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|244|2|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|264|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|166|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|241|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|291|2|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|247|1|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|139|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|216|4|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|117|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|211|7|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|163|5|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|214|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|178|3|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|169|5|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|236|9|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|158|10|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|288|4|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|103|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|300|2|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|126|1|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|151|6|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|275|6|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|130|3|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|181|3|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|154|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|222|2|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|303|2|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|125|10|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|113|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|165|3|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|172|4|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|200|8|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [11|183|5|TRANSACTION|10] v:ver:1_init:10
+11:26:19 - Got message [9|233|2|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|258|10|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|265|3|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|197|9|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|282|3|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|210|8|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|200|10|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|267|4|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|285|9|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|206|10|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|252|9|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|184|3|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|297|6|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|281|6|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|203|8|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|194|2|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|270|9|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|278|3|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|228|1|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|225|3|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|294|6|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|175|3|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|250|2|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|183|9|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|179|7|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|253|2|TRANSACTION|10] v:ver:1_init:10
+11:26:20 - Got message [9|273|8|TRANSACTION|10] v:ver:1_init:10
+11:26:25 - Got message [11|203|14|LY_MARKER|10] v:ver:2_init:14
+11:26:26 - Sending message [10|8|14|LY_MARKER|9] v:ver:2_init:14
+11:26:26 - Got message [9|305|0|LY_MARKER|10] v:ver:2_init:0
+11:26:26 - My children are[10]and my parent is 11
+11:26:27 - Got message [9|307||SK_RejectParent|10] v:ver:2_init:0
+11:26:27 - Sending message [10|9||SK_RejectParent|9] v:ver:2_init:14
+11:26:28 - Sending message [10|10||LY_TELL|11] v:ver:2_init:14
+11:26:38 - Stopping...

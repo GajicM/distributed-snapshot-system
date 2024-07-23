@@ -1,0 +1,15 @@
+11:31:59 - Marker event for: 14 initiated by 15 recordedamount: 0  getHistory: {ver:0_init:-1={11=0, 14=0}}
+11:31:59 - regionList: []
+ colectedvalues {}
+11:31:59 - give history {ver:0_init:-1={11=233, 14=244}}
+
+11:31:59 - get history {ver:0_init:-1={11=0, 14=0}}
+
+11:31:59 - 
+Snapshot result: LYSnapshotResult{serventId=15, recordedAmount=523, giveHistory={ver:0_init:-1={14=244, 11=233}}, getHistory={ver:0_init:-1={14=0, 11=0}}}
+
+11:32:00 - IZASAO IZ CUDNOG WHILEA{15=LYSnapshotResult{serventId=15, recordedAmount=523, giveHistory={ver:0_init:-1={14=244, 11=233}}, getHistory={ver:0_init:-1={14=0, 11=0}}}}
+11:32:00 - REPORTUJEM PARENTU
+ collected vals{15=LYSnapshotResult{serventId=15, recordedAmount=523, giveHistory={ver:0_init:-1={14=244, 11=233}}, getHistory={ver:0_init:-1={14=0, 11=0}}}}
+neibors from regions [11]
+ regions [10]

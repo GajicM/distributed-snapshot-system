@@ -1,0 +1,30 @@
+11:26:01 - Marker event for: 14 initiated by 12 recordedamount: 0  getHistory: {ver:0_init:-1={13=281, 14=0}}
+11:26:01 - regionList: []
+ colectedvalues {}
+11:26:01 - give history {ver:0_init:-1={13=291, 14=288}}
+
+11:26:01 - get history {ver:0_init:-1={13=281, 14=0}}
+
+11:26:01 - 
+Snapshot result: LYSnapshotResult{serventId=12, recordedAmount=702, giveHistory={ver:0_init:-1={13=291, 14=288}}, getHistory={ver:0_init:-1={13=281, 14=0}}}
+
+11:26:02 - IZASAO IZ CUDNOG WHILEA{12=LYSnapshotResult{serventId=12, recordedAmount=702, giveHistory={ver:0_init:-1={13=291, 14=288}}, getHistory={ver:0_init:-1={13=281, 14=0}}}}
+11:26:02 - REPORTUJEM PARENTU
+ collected vals{12=LYSnapshotResult{serventId=12, recordedAmount=702, giveHistory={ver:0_init:-1={13=291, 14=288}}, getHistory={ver:0_init:-1={13=281, 14=0}}}}
+neibors from regions [13]
+ regions [14]
+11:26:22 - Marker event for: 14 initiated by 12 recordedamount: 702  getHistory: {ver:1_init:14={13=257, 14=0}, ver:0_init:-1={13=281, 14=0}}
+11:26:22 - regionList: []
+ colectedvalues {}
+11:26:22 - give history {ver:1_init:14={13=273, 14=259}, ver:0_init:-1={13=291, 14=288}}
+
+11:26:22 - get history {ver:1_init:14={13=257, 14=0}, ver:0_init:-1={13=281, 14=0}}
+
+11:26:22 - 
+Snapshot result: LYSnapshotResult{serventId=12, recordedAmount=427, giveHistory={ver:1_init:14={13=273, 14=259}}, getHistory={ver:1_init:14={13=257, 14=0}}}
+
+11:26:24 - IZASAO IZ CUDNOG WHILEA{12=LYSnapshotResult{serventId=12, recordedAmount=427, giveHistory={ver:1_init:14={13=273, 14=259}}, getHistory={ver:1_init:14={13=257, 14=0}}}}
+11:26:24 - REPORTUJEM PARENTU
+ collected vals{12=LYSnapshotResult{serventId=12, recordedAmount=427, giveHistory={ver:1_init:14={13=273, 14=259}}, getHistory={ver:1_init:14={13=257, 14=0}}}}
+neibors from regions [13]
+ regions [14]
